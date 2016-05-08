@@ -232,6 +232,8 @@ function create_config( )
      "plugins",
      "addplug",
      "getplug",
+     "life_spammer",
+     "line_spammer",
      },
     sudo_users = {212990316},
     admin_users = {},
